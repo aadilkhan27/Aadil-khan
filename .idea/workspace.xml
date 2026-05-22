@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ca0cd3f-93d1-48c7-8bcf-b55396ce126c" name="Changes" comment="UI changes for web implemented" />
+    <list default="true" id="2ca0cd3f-93d1-48c7-8bcf-b55396ce126c" name="Changes" comment="grid update for web" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -142,7 +142,23 @@
       <option name="project" value="LOCAL" />
       <updated>1777027716535</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="grid update for web">
+      <option name="closed" value="true" />
+      <created>1777032514003</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1777032514003</updated>
+    </task>
+    <task id="LOCAL-00013" summary="grid update for web">
+      <option name="closed" value="true" />
+      <created>1777032760821</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1777032760821</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -154,6 +170,7 @@
     <MESSAGE value="system-theme implemented" />
     <MESSAGE value="UI changes implemented" />
     <MESSAGE value="UI changes for web implemented" />
-    <option name="LAST_COMMIT_MESSAGE" value="UI changes for web implemented" />
+    <MESSAGE value="grid update for web" />
+    <option name="LAST_COMMIT_MESSAGE" value="grid update for web" />
   </component>
 </project>
